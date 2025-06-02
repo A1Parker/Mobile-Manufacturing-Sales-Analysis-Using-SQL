@@ -69,7 +69,7 @@ The project uses a normalized star schema consisting of:
 ---
 
 ### 8. 🥈 Second top manufacturer by sales in **2009 and 2010**
-📷 ![Solution](relative/path/to/image.png)
+📷 ![Solution](Q8.png)
 
 
 ---
