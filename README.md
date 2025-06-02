@@ -51,7 +51,7 @@ The project uses a normalized star schema consisting of:
 ---
 
 ### 5. 📊 Average price per model among top 5 manufacturers by quantity
-📷 ![Solution](relative/path/to/image.png)
+📷 ![Solution](Q5.png)
 
 
 ---
