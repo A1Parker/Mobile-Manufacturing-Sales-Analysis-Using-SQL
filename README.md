@@ -63,7 +63,7 @@ The project uses a normalized star schema consisting of:
 ---
 
 ### 7. 🔁 Any model in top 5 quantity-wise for **2008, 2009, and 2010** simultaneously
-📷 ![Solution](relative/path/to/image.png)
+📷 ![Solution](Q7.png)
 
 
 ---
