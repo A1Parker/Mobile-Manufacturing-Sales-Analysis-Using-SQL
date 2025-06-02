@@ -75,7 +75,7 @@ The project uses a normalized star schema consisting of:
 ---
 
 ### 9. 📉 Manufacturers who sold phones in **2010 but not in 2009**
-📷 ![Solution](relative/path/to/image.png)
+📷 ![Solution](Q9.png)
 
 
 ---
