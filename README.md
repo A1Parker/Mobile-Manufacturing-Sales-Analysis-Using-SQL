@@ -39,7 +39,7 @@ The project uses a normalized star schema consisting of:
 ---
 
 ### 3. 📦 Transactions by model per ZIP code per state
-📷 ![Solution](relative/path/to/image.png)
+📷 ![Solution](Q3.png)
 
 
 ---
