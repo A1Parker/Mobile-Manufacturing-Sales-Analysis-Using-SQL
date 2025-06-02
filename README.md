@@ -26,7 +26,7 @@ The project uses a normalized star schema consisting of:
 ## ❓ Business Questions & Insights
 
 ### 1. 📍 List all the states with customers who purchased phones from 2005 onward.
-📷 ![Solution](relative/path/to/image.png)
+📷 ![Solution](Q1.png)
 
 
 
