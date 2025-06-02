@@ -81,7 +81,7 @@ The project uses a normalized star schema consisting of:
 ---
 
 ### 10. 💼 Top 100 customers: Avg. spend, quantity by year, % change in spend
-📷![Solution](relative/path/to/image.png)
+📷![Solution](Q10.png)
 
 
 ---
