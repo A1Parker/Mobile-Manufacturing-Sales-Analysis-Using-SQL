@@ -33,7 +33,7 @@ The project uses a normalized star schema consisting of:
 ---
 
 ### 2. 📱 Which U.S. state buys the most 'Samsung' phones?
-📷 ![Solution](relative/path/to/image.png)
+📷 ![Solution](Q2.png)
 
 
 ---
