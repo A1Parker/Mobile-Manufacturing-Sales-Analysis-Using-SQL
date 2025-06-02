@@ -45,7 +45,7 @@ The project uses a normalized star schema consisting of:
 ---
 
 ### 4. 💸 What is the cheapest cellphone? (Include price)
-📷 ![Solution](relative/path/to/image.png)
+📷 ![Solution](Q4.png)
 
 
 ---
