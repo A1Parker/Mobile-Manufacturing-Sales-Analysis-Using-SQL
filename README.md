@@ -57,7 +57,7 @@ The project uses a normalized star schema consisting of:
 ---
 
 ### 6. 🧾 Customers with avg. spend > ₹500 in 2009
-📷 ![Solution](relative/path/to/image.png)
+📷 ![Solution](Q6.png)
 
 
 ---
